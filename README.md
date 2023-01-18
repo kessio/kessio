@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **listings web applications**
 
-- 🌱 I’m currently learning **React/Redux, Ruby on Rails, Ionic**
+- 🌱 I’m currently learning **Ruby on Rails, Ionic**
 
 - 👯 I’m looking to collaborate on **technical writing**
 

@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kessio&label=Profile%20views&color=0e75b6&style=flat" alt="kessio" /> </p>
 
-- 🔭 I’m currently working on **listings web applications**
+- 🔭 I’m currently making **Contrivbutions to Open Source Projects**
 
-- 🌱 I’m currently learning **Ruby on Rails, Ionic**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **technical writing**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@kessio](https://medium.com/@kessio)
 
-- 💬 Ask me about **Laravel, JavaScript**
+- 💬 Ask me about **Open-Source community**
 
 - 📫 How to reach me **sharonkessio6@gmail.com**
 
